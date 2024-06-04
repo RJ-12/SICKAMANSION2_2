@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.4",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "WaterExtras",
+			"Enabled": true
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
+		},
+		{
+			"Name": "PCGWaterInterop",
+			"Enabled": true
+		},
+		{
+			"Name": "Buoyancy",
+			"Enabled": true
+		},
+		{
+			"Name": "AdvancedFlockSystem",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/4e0c3b65a03046a290403b326dbb3428"
+		}
+	]
+}
